@@ -5,7 +5,7 @@ Follow the steps :
 --------------------
 1. Front end - React Js
 2. Backend - Fast API 
-3. Monogo Db database 
+3. Mysql database 
 ----------------------
 dockerize them and deploy in a ec2 instance 
 should use github actions for cicd
